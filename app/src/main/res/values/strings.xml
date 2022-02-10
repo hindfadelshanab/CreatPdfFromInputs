@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CreatPdfFromInputs</string>
+
+    <string-array name="Pizza_Menu">
+
+        <item>Select</item>
+        <item>Margherita</item>
+        <item> Double Cheese Margherita</item>
+        <item>Peppy Paneer</item>
+        <item>Maxican Green Wave</item>
+        <item>Veg Extravaganza</item>
+
+    </string-array>
+</resources>
